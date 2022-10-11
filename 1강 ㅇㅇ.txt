@@ -1,0 +1,100 @@
+변수 
+이름 = default										
+
+
+문자열 포멧팅(string) " """ ' '''' 
+int(수) +-
+
+
+
+
+
+
+>>> c = """ hi,
+... my name is
+... "park"
+... """
+>>> print(c)
+ hi,
+my name is
+"park"
+
+(a + "\n"+b)
+= 띄어쓰기
+
+%10 = space
+
+name : kim
+age : 20
+
+("name : "+"\n"+"age : ")
+
+
+ name = "jun"
+>>> age = "26"
+>>> print("name : %s\nage : %s"%(name,age))
+name :jun
+age : 26
+ person = {'name' : "kim", age;20}
+
+
+
+
+list = 
+
+
+persons =[person,person1]
+print(persons[0]
+person2 = {'name' "lee", 'afe':10}
+print(person)
+persons.append(person2)
+print(persons)
+
+(seccond ps age)
+print(person [1] ["age"])
+
+
+list2 = [list1]
+print(perosn.get('age'))
+
+del persons[2]
+or
+
+list.remove()
+
+
+list pop() = last value 
+>>> list.insert(8,100)
+>>> list
+[2, 3, 4, 3, 3, 3, 3, 33, 100, 3, 3, 4, 3, 3, 3, 3, 3, 3, 10]
+>>> list
+[2, 3, 4, 3, 3, 3, 3, 33, 100, 3, 3, 4, 3, 3, 3, 3, 3, 3, 10]
+>>> list[len(list)-1])
+  File "<stdin>", line 1
+    list[len(list)-1])
+                     ^
+SyntaxError: unmatched ')'
+>>> list[len(list)-1]
+10
+>>> print(list[len(list)-1])
+10
+>>> list[len(list)-1] = 100
+>>> print(list[len(list)-1])
+100
+>>> del list[len(list)-1]
+>>> print(list[len(list)-1])
+
+list copy
+
+exit()
+
+
+
+
+
+
+
+
+
+
+
